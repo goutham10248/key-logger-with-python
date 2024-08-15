@@ -15,7 +15,7 @@ Examples :
 
 I think its done to knowing about the keylogger, now it's the time, How to install keylogger in your computer or any other computer ..??
 
-Process : 
+Process :
 1. open cmd type pip install keyboard
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/563fb1e0d179522b5c7c89669de2db8904e85503/images/Screenshot%202024-08-15%20135804.png)  
@@ -25,8 +25,7 @@ Process :
 3. It is the python file u can copy it or download, If u run this code in any environment like Vscode or any other platform.
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/b1ac68c899b33ac8aba169759a1e46ecad5abc3f/images/2.png)
-4. After executed the code, it will stores(logs) the keystrokes in keystrokes.txt
-
+4. After executed the code, it will store(logs) the keystrokes in keystrokes.txt
 5. How to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/3abd68e541ec48fd97eabbc6b4ab29ece1a6dddc/images/3.png)
