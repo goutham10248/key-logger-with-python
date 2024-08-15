@@ -22,17 +22,17 @@ Process :
 2. open key_logger.py
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/4c7daf893d2086f41b9f0fa334aed6587f4857f3/images/1.png)
-3. It is the python file u can copy it or download
-4. If u run this code in any environment like Vscode or any other platform.
-![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/b1ac68c899b33ac8aba169759a1e46ecad5abc3f/images/2.png)
-5. after executed the code, it will log the keystrokes in keystrokes.txt
-6. it is the txt file u can see this file in u r local storage
-7. how to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
-![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/3abd68e541ec48fd97eabbc6b4ab29ece1a6dddc/images/3.png)
-8. if u close the python code, keystrokes recording will be stopped
-9. if u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one.
+3. It is the python file u can copy it or download, If u run this code in any environment like Vscode or any other platform.
 
-if it will show any errors 
+![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/b1ac68c899b33ac8aba169759a1e46ecad5abc3f/images/2.png)
+4. after executed the code, it will stores(logs) the keystrokes in keystrokes.txt
+
+5. how to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
+![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/3abd68e541ec48fd97eabbc6b4ab29ece1a6dddc/images/3.png)
+
+6. if u close the python code, keystrokes recording will be stopped, If u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one.
+
+If it will show any errors :
 open extension and install pip-packages extension,python debugger extension try to install some more extensions if it is not work or in vscode run without debugging.
 
 Alternates :
