@@ -17,8 +17,9 @@ I think its done to knowing about the keylogger, now it's the time, How to insta
 
 Process : 
 1. open cmd type pip install keyboard
-![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/563fb1e0d179522b5c7c89669de2db8904e85503/images/Screenshot%202024-08-15%20135804.png)
+![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/563fb1e0d179522b5c7c89669de2db8904e85503/images/Screenshot%202024-08-15%20135804.png)  
 2. open key_logger.py
+![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/4c7daf893d2086f41b9f0fa334aed6587f4857f3/images/1.png)
 4. It is the python file u can copy it or download
 5. If u run this code in any environment like Vscode or any other platform.
 6. after executed the code, it will log the keystrokes in keystrokes.txt
