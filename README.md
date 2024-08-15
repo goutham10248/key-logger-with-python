@@ -25,12 +25,10 @@ Process :
 3. It is the python file u can copy it or download, If u run this code in any environment like Vscode or any other platform.
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/b1ac68c899b33ac8aba169759a1e46ecad5abc3f/images/2.png)
-4. After executed the code, it will store(logs) the keystrokes in keystrokes.txt
-5. How to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
+4. After executed the code, it will store(logs) the keystrokes in keystrokes.txt. How to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
 
 ![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/3abd68e541ec48fd97eabbc6b4ab29ece1a6dddc/images/3.png)
-
-6. If u close the python code, keystrokes recording will be stopped, If u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one.
+5. If u close the python code, keystrokes recording will be stopped, If u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one.
 
 If it will show any errors :
 open extension and install pip-packages extension,python debugger extension try to install some more extensions if it is not work or in vscode run without debugging.
