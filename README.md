@@ -38,5 +38,5 @@ I think its done to knowing about the keylogger, now it's the time, How to insta
 open extension in vscode and install pip-packages extension,python debugger extension try to install some more extensions if it is not work or in vscode run without debugging.
 
 # Alternates :
-You can the send the key strokes to email or usb like more..
+You can the send the key strokes(logs) to email or usb like more..
 
