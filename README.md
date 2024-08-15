@@ -11,6 +11,7 @@ Example :
 2. Imagine you're at a friend's house and use their computer to log into your Instagram account. If a keylogger is secretly installed on that computer, it will record everything you type, including your Instagram username and password. Later, the person who installed the keylogger could use that recorded information to access your Instagram account without your knowledge. They could view your messages, post on your behalf, or even change your account settings.
 
 I think its done to knowing about the keylogger, now it's the time, How to install keylogger in your computer or any other computer ..??
+
 Process : 
 1. open cmd type pip install keyboard
 2. Your in README.md folder
