@@ -17,7 +17,7 @@ I think its done to knowing about the keylogger, now it's the time, How to insta
 
 Process : 
 1. open cmd type pip install keyboard
-![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/005ddc574e7e29fb08872577147d6c5a00629d2d/Screenshot%202024-08-15%20135804.png)
+![Image Alt](https://github.com/goutham10248/key-logger-with-python/blob/563fb1e0d179522b5c7c89669de2db8904e85503/images/Screenshot%202024-08-15%20135804.png)
 2. Your in README.md folder
 3. Go back and open key_logger.py
 4. It is the python file u can copy it or download
