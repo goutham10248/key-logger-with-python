@@ -34,9 +34,9 @@ Process :
 
 5. If u close the python code, keystrokes recording will be stopped, If u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one.
 
-If it will show any errors :
+# If it will show any errors :
 open extension in vscode and install pip-packages extension,python debugger extension try to install some more extensions if it is not work or in vscode run without debugging.
 
-Alternates :
+# Alternates :
 You can the send the key strokes to email or usb like more..
 
