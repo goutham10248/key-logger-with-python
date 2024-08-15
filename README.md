@@ -4,6 +4,7 @@ I had create a keylogger using with pyton # you can use different programming la
 I just said before sometime i am using python because it is easy to write and understand.
 
 What is keylogger?
+
 A keylogger is a type of software or hardware that secretly records everything you type on your keyboard. It can capture passwords, messages, and any other information you input. This data is then sent to someone else without your knowledge.
 
 Examples :
