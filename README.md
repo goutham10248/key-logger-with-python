@@ -1,9 +1,9 @@
 # key-logger-with-python
 Hi, I am goutham ....
 
-I had create a keylogger using with pyton # you can use different programming languages also like java,c,c++ ...etc,
+I had create a keylogger using with pyton (you can use different programming languages also like c,c++,java,R ...etc)
 
-I just said before sometime i am using python because it is easy to write and understand and vscode
+I had done this project in windows and run the python code in vscode (you can use linux,mac OS and to run code in any other environment also)  
 
 # What is keylogger?
 
