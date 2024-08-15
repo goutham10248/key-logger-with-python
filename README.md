@@ -4,7 +4,7 @@ I had create a keylogger using with pyton # you can use different programming la
 I just said before sometime i am using python because it is easy to write and understand.
 
 What is keylogger?
-  A keylogger is a type of software or hardware that secretly records everything you type on your keyboard. It can capture passwords, messages, and any other information you input. This data is then sent to someone else without your knowledge.
+A keylogger is a type of software or hardware that secretly records everything you type on your keyboard. It can capture passwords, messages, and any other information you input. This data is then sent to someone else without your knowledge.
 
 Examples :
 1. Imagine you're using a public computer at a library. If a keylogger is installed on that computer, it could record your username and password when you log into your email. The person who installed the keylogger could then access your email account using that information.
@@ -20,7 +20,7 @@ Process :
 5. If u run this code in any environment like Vscode or any other platform.
 6. after executed the code, it will log the keystrokes in keystrokes.txt
 7. it is the txt file u can see this file in u r local storage
-8. how to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file see, what u type on keyboard it was record
+8. how to open the file ? search the keystrokes.txt in windows search bar it will show the file, open the file and see, what u type on keyboard it was record
 9. if u close the python code, keystrokes recording will be stopped
 10. if u execute again it will record the keysrokes into another keystrokes.txt file, not in previous one
 
