@@ -1,5 +1,4 @@
 # key-logger-with-python
-Hi, I am goutham ....
 
 I had create a keylogger using with pyton (you can use different programming languages also like c,c++,java,R ...etc)
 
